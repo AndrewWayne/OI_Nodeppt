@@ -3,7 +3,7 @@ speaker: 缪慎浩
 plugins:
     - echarts
     - katex
-<slide class="bg-black-blue aligncenter" image="https://source.unsplash.com/C1HhAQrbykQ/ .dark">
+<slide class="bg-black-blue aligncenter" image="https://source.unsplash.com/C1HhAQrbykQ/ .anim">
 
 # 初赛基础 {.text-landing.text-shadow}
 
@@ -13,7 +13,7 @@ By 缪慎浩 {.text-intro}
 
 <slide class="aligncenter">
 
-# What will we learn?
+## What will we learn?
 
 <slide class = "aligncenter" image="http://www.manpingou.com/uploads/allimg/190620/25-1Z620092054N8-lp.jpg .anim">
 :::{.content-left}
@@ -22,27 +22,27 @@ By 缪慎浩 {.text-intro}
 :::{.content-left}
 ### Contents
 ***
-- [计算机语言](~/#slide=5){.animated.fadeInUp}
-- [:fa-star:数制转换](~/#slide=9){.animated.fadeInUp}
-- [信息编码](~/#slide=3){.animated.fadeInUp}
-- [信息安全](~/#slide=3){.animated.fadeInUp}
-- [:fa-star:数在计算机中的表示](~/#slide=3){.animated.fadeInUp}
-- [计算机网络](~/#slide=3){.animated.fadeInUp}
-- [硬件常识](~/#slide=3){.animated.fadeInUp}
+- [计算机语言](#slide=5){.animated.fadeInUp}
+- [:fa-star:数制转换](#slide=9){.animated.fadeInUp}
+- [信息编码](#slide=12){.animated.fadeInUp}
+- [信息安全](#slide=13){.animated.fadeInUp}
+- [:fa-star:数在计算机中的表示](#slide=14){.animated.fadeInUp}
+- [计算机网络](#slide=3){.animated.fadeInUp}
+- [硬件常识](#slide=3){.animated.fadeInUp}
 :::
 :::{.content-right}
 ### 打:fa-star:就是重点
 ***
-- [算法常识](~/#slide=3){.animated.fadeInUp}
-- [:fa-star:逻辑运算](~/#slide=3){.animated.fadeInUp}
-- [:fa-star:栈](~/#slide=3){.animated.fadeInUp}
-- [:fa-star:队列](~/#slide=3){.animated.fadeInUp}
-- [:fa-star:树](~/#slide=3){.animated.fadeInUp}
-- [:fa-star:图](~/#slide=3){.animated.fadeInUp}
-- [组合数学（计数，组合](~/#slide=3){.animated.fadeInUp}
+- [算法常识](#slide=3){.animated.fadeInUp}
+- [:fa-star:逻辑运算](#slide=3){.animated.fadeInUp}
+- [:fa-star:栈](#slide=3){.animated.fadeInUp}
+- [:fa-star:队列](#slide=3){.animated.fadeInUp}
+- [:fa-star:树](#slide=3){.animated.fadeInUp}
+- [:fa-star:图](#slide=3){.animated.fadeInUp}
+- [组合数学（计数，组合](#slide=3){.animated.fadeInUp}
 :::
 <slide class="bg-black-blue slide-top">
-## 计算机语言.{.text-shadow}
+## 计算机语言{.text-landing.text-shadow}
 ***
 > #### *Some Concept*
 >> 程序，是⼀系列的操作步骤，比如我们常说“做事要走程序”⽐如我们社团申请，举报学校就要走程序。
@@ -97,7 +97,7 @@ By 缪慎浩 {.text-intro}
 - C 和 Pascal 是纯面向过程语言
 - 就算没有对象也可以学面向对象的程序设计语言 C++
 <slide class="slide-top bg-black-blue">
-## 数制转换{.text.shadow}
+## 数制转换{.text-landing.text.shadow}
 ***
 我们仅介绍十进制，二进制，八进制，十六进制的整数及有理数的相互转换。（高考也要求这个东西）
 
@@ -130,6 +130,17 @@ By 缪慎浩 {.text-intro}
 - $4O + 14H = ? B$
 :::
 <slide class="aligncenter bg-black-blue">
-### 信息编码{.text-shadow}
+## 信息编码{.text-landing.text-shadow}
+
 请自行阅读资料{.text-intro}
-[获取资料](https://www.luogu.org/team/show?teamid=10342){.button.ghost}
+
+[获取资料](NOIP初赛复习.doc){.button.ghost}
+<slide class="aligncenter bg-black-blue">
+## 信息安全{.text-landing.text-shadow}
+
+请自行阅读资料{.text-intro}
+
+[获取资料](NOIP初赛复习.doc){.button.ghost}
+<slide class="slide-top bg-black-blue">
+## 数在计算机中的表示{.text-landing.text-shadow}
+***
