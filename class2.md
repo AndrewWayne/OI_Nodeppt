@@ -17,7 +17,7 @@ By 缪慎浩 {.text-intro}
 
 <slide class = "aligncenter" image="http://www.manpingou.com/uploads/allimg/190620/25-1Z620092054N8-lp.jpg .anim">
 :::{.content-left}
-## :fa-quote-left: 我们今天要火箭速度，有12个知识点。
+## :fa-quote-left: 我们今天要火箭速度，有12个知识点，还是得快一点。
 <slide class = "slide-top">
 :::{.content-left}
 ### Contents
@@ -238,8 +238,29 @@ $$ x_f = \left\{ \begin{aligned} x_y (x \geq 0)\\ "1"+[\sim x] (x \leq 0) \end{a
 - 物理层：负责将比特流在结点间传输，即负责物理传输。该层的协议既与链路有关也与传输介质有关。{.tobuild.fadeInUp}
 :::
 :::card
-![](pic2.png)
+![](./pic2.png)
 ---
-![](pic3.png)
+![](./pic3.png)
 :::
-<slide>
+<slide class="slide-top">
+### 网络协议简单介绍：
+
+- HTTP：超文本传输协议，指定了客户端可能发送给服务器什么样的消息以及得到什么样的响应。是浏览器与服务器之间的信息传递规范。
+
+- FTP：文件传输协议，观名易知。用于在网络上进行文件传输。
+
+- SMTP：简单邮件传输协议，用来发邮件。
+
+- POP3：邮件协议3，用来收邮件。
+
+- IMAP：交互邮件访问协议，用来收邮件，邮件客户端实现与服务器直接同步。
+
+- IP：互联网协议，分配给用户上网使用的网际协议的设备的数字标签，一般分 IPv4 和 IPv6 。IPv4 地址长度有32位，一搬写作 x.x.x.x 其中 0 ≤ x ≤ 255。[了解更多](https://baike.baidu.com/item/IP/224599)
+
+- TCP：传输控制协议，TCP/IP 模型中在第4层传输层，见上页图片。
+
+- Telnet：远程终端协议，用来远程访问服务器之类的。是Internet远程登录服务的标准协议和主要方式。
+
+<slide class="bg-black-blue">
+
+### 已知函数 $f(x) = (1+a)x + \frac{3}{x} + |(1-a)x + \frac{3}{x} - 4| \space (x > 0)$ 的最小值为3，则实数 $a$ 的值为____
